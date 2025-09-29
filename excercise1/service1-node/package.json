@@ -1,0 +1,10 @@
+{
+  "name": "service1-node",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "check-disk-space": "^3.4.0",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
