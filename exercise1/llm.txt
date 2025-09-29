@@ -1,6 +1,8 @@
 ChatGPT and GitHub Copilot were used in assistance while doing this exercise.
 
 GitHub Copilot was mainly used as a tool of convenience to speed up the programming process since it can automatically recommend further lines of code based on the already existing code.
-ChatGPT was used as a tool to first of all better understand the instructions, for reviewing code that I had written, reviewing whether my implementation was matching what was required and overall as a source of knowledge whenever I had difficulties understanding something about the exercise, mainly Docker related questions.
+ChatGPT was used as a tool to first of all better understand the instructions, for reviewing code that I had written, reviewing whether my implementation was matching what was required and
+overall as a source of knowledge whenever I had difficulties understanding something about the exercise, mainly Docker related questions.
 
-Language models turned out to be useful in simple problems and in helping me grasp more challenging concepts. However, multiple times throughout the exercise I came to the realization that I need to trust my own knowledge and understanding as language models gave conflicting information with either themselves or with the exercise instructions.
+Language models turned out to be useful in simple problems and in helping me grasp more challenging concepts. However, multiple times throughout the exercise I came to the realization
+that I need to trust my own knowledge and understanding as language models gave conflicting information with either themselves or with the exercise instructions.
